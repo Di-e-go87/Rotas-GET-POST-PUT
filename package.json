@@ -1,0 +1,27 @@
+{
+  "name": "projeto-aula-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3",
+    "sequelize": "^6.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Di-e-go87/Projeto-Aula-Node.JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Di-e-go87/Projeto-Aula-Node.JS/issues"
+  },
+  "homepage": "https://github.com/Di-e-go87/Projeto-Aula-Node.JS#readme",
+  "description": ""
+}
